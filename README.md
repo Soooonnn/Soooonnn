@@ -5,7 +5,7 @@
 
 <h2>기술 스택</h2>
 <p>
-    <img src = https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=orange>&nbsp
+    <img src ="https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=orange">&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
@@ -14,11 +14,9 @@
     <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
 </p>
 
-<h2>프로젝트</h2>
+<h2>Experience</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3</a></li>
+    <li><a href="https://github.com/Soooonnn/WooriFISA">우리FISA[2025.12.30 ~ 2026.06.25]</li>
 </ul>
 
 <p>
