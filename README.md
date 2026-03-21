@@ -1,7 +1,19 @@
-<h1>Hi🖐️ I'm Soonjae Kwon</h1>
-<p>
+## 안녕하세요 권순재입니다. ##
 
-</p>
+---
+
+## About Me
+<div align="center">
+  <b>Hankuk University of Foreign Studies- 산업경영공학 / 컴퓨터·전자시스템공학</b> <br>
+  Currently learning <b>Infra & backend engineering</b><br>
+  <b>Interested in IT Infrastructure</b><br>
+  <b>Contact</b>: <a href="mailto:ksj386502@gmail.com">ksj386502@gmail.com</a><br>
+  <b>Goal</b>: Infra architecture <br>
+  <b>Certifications</b>: AWS SAA, 정보처리기사, ADsP, SQLD <br>
+  <b>Hobby</b>: 🏋️‍♂️ Gym &middot; 🏀 Basketball
+</div>
+
+---
 
 ## Skills
 |Category| Stack |
@@ -16,7 +28,7 @@
 
 <h2>Experience</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/Soooonnn/WooriFISA">우리FISA[2025.12.30 ~ 2026.06.25]</li>
+    <li><a href="https://github.com/Soooonnn/WooriFISA">우리FISA 6기 - 클라우드 엔지니어링[2025.12.30 ~ 2026.06.25]</li>
 </ul>
 
 <h2>Projects</h2>
