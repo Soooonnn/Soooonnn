@@ -9,7 +9,6 @@
   <b>Interested in IT Infrastructure</b><br>
   <b>Contact</b>: <a href="mailto:ksj386502@gmail.com">ksj386502@gmail.com</a><br>
   <b>Goal</b>: Infra architecture <br>
-  <b>Certifications</b>: AWS SAA / 정보처리기사 / ADsP / SQLD / 리눅스마스터2급 <br>
   <b>Hobby</b>: 🏋️‍♂️ Gym &middot; 🏀 Basketball
 </div>
 
@@ -25,6 +24,18 @@
 | Cloud · Infra	| ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=ffffff) ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat-square&logo=vmware&logoColor=ffffff)|
 | Dev Tools | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=ffffff) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipse&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=ffffff)|
 | Tools | ![Figma](https://img.shields.io/badge/Figma-F15BB5.svg?style=flat-square&logo=figma&logoColor=ffffff) ![Slack](https://img.shields.io/badge/Slack-5E0E5E.svg?style=flat-square&logo=slack&logoColor=ffffff) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=ffffff) |
+
+---
+## 🖥️ Certifications
+
+| 자격증 | 발급기관 | 취득일 |
+|:---:|:---:|:---:|
+| 리눅스마스터2급 | 한국정보통신진흥협회 | 2026-04-03 |
+| AWS Solutions Architect – Associate | Amazon Web Services | 2026-03-09 |
+| 정보처리기사 | 한국산업인력공단 | 2025-06-13 |
+| SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2024-09-20 |
+| 데이터 분석 준전문가(ADsP) | 한국데이터산업진흥원 | 2024-03-22 |
+---
 
 <h2>Experience</h2>
 <ul style="list-style: none; padding: 0;">
