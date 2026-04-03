@@ -9,7 +9,7 @@
   <b>Interested in IT Infrastructure</b><br>
   <b>Contact</b>: <a href="mailto:ksj386502@gmail.com">ksj386502@gmail.com</a><br>
   <b>Goal</b>: Infra architecture <br>
-  <b>Certifications</b>: AWS SAA, 정보처리기사, ADsP, SQLD <br>
+  <b>Certifications</b>: AWS SAA / 정보처리기사 / ADsP / SQLD / 리눅스마스터2 <br>
   <b>Hobby</b>: 🏋️‍♂️ Gym &middot; 🏀 Basketball
 </div>
 
