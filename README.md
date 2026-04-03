@@ -36,16 +36,22 @@
 | SQL 개발자 (SQLD) | 한국데이터산업진흥원 | 2024-09-20 |
 | 데이터 분석 준전문가(ADsP) | 한국데이터산업진흥원 | 2024-03-22 |
 ---
-## 👨‍💻 Project
+## ⭐ 주요 프로젝트
+
+| 순서 | 프로젝트명 | 설명 | 기술스택 | github |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | VMware Team Lab  | VMware를 활용하여 기초부터 vSAN까지 구현해보았다.   |![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)| [🔗](https://github.com/wooxxo/VMware-TeamLab.git) |
+
+---
+## 👨‍💻 기타 프로젝트
 
 | 순서 | 프로젝트명 | 설명 | 기술스택 | github |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | AI 기반 축구 유니폼 중고거래 판매 자동화 시스템  | AI모델을 활용하여 축구 유니폼 인식 및 하자를 탐지하고 가격 추천을 진행하는 프로젝트를 진행했습니다.   |![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Django](https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white)| [🔗](https://github.com/Soooonnn/AI-Jersey-Automation.git) |
 | 2 | n8n을 활용한 경제 문제 만들기 자동화 프로젝트  | n8n을 사용하여 경제 뉴스를 실시간으로 크롤링하고 LLM으로 학습용 퀴즈를 자동 생성하여 DB에 적재합니다. 이후 시각화된 PDF로 변환하여 사용자의 굿노트(이메일)까지 전송하는 전 과정을 자동화하였습니다.   |![n8n](https://img.shields.io/badge/n8n-pink.svg?&style=for-the-badge&logo=n8n&logoColor=black)| [🔗](https://github.com/FISA-Team-n8n/n8n_create_problems.git) |
-| 3 | VMware Team Lab  | VMware를 활용하여 기초부터 vSAN까지 구현해보았다.   |![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)| [🔗](https://github.com/wooxxo/VMware-TeamLab.git) |
-| 4 | Spring Boot × Jenkins CI/CD Pipeline | Spring Boot × Jenkins CI/CD Pipeline | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗](https://github.com/Soooonnn/fisaDevOps1.git) |
-| 5 | Docker image Optimization | Docker 이미지 최적화 기법을 단계별로 적용하고, 각 기법이 이미지 크기와 보안에 미치는 영향을 실험한 프로젝트입니다. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗](https://github.com/Soooonnn/fisaDevOps1.git) |
-| 6 |Kubernetes DevSevOps | Kubernetes에서 DB를 이중화하고 configmap과 secret을 통해 보안을 강화하는 공부를 진행했습니다. |![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)| [🔗](https://github.com/Soooonnn/KubernetesDevSecOps.git) |
+| 3 | Spring Boot × Jenkins CI/CD Pipeline | Spring Boot × Jenkins CI/CD Pipeline | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗](https://github.com/Soooonnn/fisaDevOps1.git) |
+| 4 | Docker image Optimization | Docker 이미지 최적화 기법을 단계별로 적용하고, 각 기법이 이미지 크기와 보안에 미치는 영향을 실험한 프로젝트입니다. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  [🔗](https://github.com/Soooonnn/fisaDevOps1.git) |
+| 5 |Kubernetes DevSevOps | Kubernetes에서 DB를 이중화하고 configmap과 secret을 통해 보안을 강화하는 공부를 진행했습니다. |![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)| [🔗](https://github.com/Soooonnn/KubernetesDevSecOps.git) |
 
 ---
 ## 📕 Study
