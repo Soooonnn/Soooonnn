@@ -62,6 +62,8 @@
 | 1 |Stream API를 사용할 때 주의해야 할 점에 대한 고찰 및 구현 | Stream API를 사용할 때 자주 하는 실수 7가지에 대해서 왜 문제가 되고 어떻게 해결해야하는지 공부해 보았습니다. |![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![lo4j2](https://img.shields.io/badge/log4j2-purple.svg?&style=for-the-badge&logo=n8n&logoColor=white)| [🔗](https://github.com/FISA-Team-n8n/streamapi-performance-test.git) |
 | 2 |Docker Healthcheck에 대한 공부 | docker에서 Healthcheck를 어디에서 설정하는지, 설정 후에는 어떻게 확인하는지 등을 공부해 보았습니다. |![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)| [🔗](https://github.com/Soooonnn/docker-compose-study.git) |
 | 3 | Linux lab  | tree, find, grep, awk, crontab 명령어 및 jq, yq 공부했습니다.  |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)| [🔗](https://github.com/bbky323/FISA-LinuxSearch.git) |
+| 4 | Linux throttling analysis  | 리눅스 커널 스케줄러와 컨테이너 성능의 상관관계에 대해서 공부했습니다.(throttling 발생 원인과 이를 해결할 해결 방법에 대한 공부)  |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)| [🔗](https://github.com/Soooonnn/k8s-cpu-throttling-analysis.git) |
+
 
 
 ---
